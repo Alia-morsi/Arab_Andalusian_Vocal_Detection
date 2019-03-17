@@ -1,0 +1,356 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 4439.887868480726 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Sections" 
+        xmin = 0 
+        xmax = 4439.887868480726 
+        intervals: size = 7 
+        intervals [1]:
+            xmin = 0 
+            xmax = 130.12963325797776 
+            text = "Msalia" 
+        intervals [2]:
+            xmin = 130.12963325797776 
+            xmax = 240.9274359897474 
+            text = "Tawsya" 
+        intervals [3]:
+            xmin = 240.9274359897474 
+            xmax = 2697.895210685151 
+            text = "Muassa'" 
+        intervals [4]:
+            xmin = 2697.895210685151 
+            xmax = 3920.085524152547 
+            text = "Mahzuz" 
+        intervals [5]:
+            xmin = 3920.085524152547 
+            xmax = 4233.27206297946 
+            text = "Insiraf" 
+        intervals [6]:
+            xmin = 4233.27206297946 
+            xmax = 4303.12943362833 
+            text = "Insad" 
+        intervals [7]:
+            xmin = 4303.12943362833 
+            xmax = 4439.887868480726 
+            text = "Insiraf" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "V/I" 
+        xmin = 0 
+        xmax = 4439.887868480726 
+        intervals: size = 77 
+        intervals [1]:
+            xmin = 0 
+            xmax = 240.9274359897474 
+            text = "" 
+        intervals [2]:
+            xmin = 240.9274359897474 
+            xmax = 259.2592731961639 
+            text = "Vocal1" 
+        intervals [3]:
+            xmin = 259.2592731961639 
+            xmax = 271.5940428097167 
+            text = "Instrumental1" 
+        intervals [4]:
+            xmin = 271.5940428097167 
+            xmax = 378.31712091391745 
+            text = "Vocal2" 
+        intervals [5]:
+            xmin = 378.31712091391745 
+            xmax = 425.09499863547 
+            text = "Instrumental2" 
+        intervals [6]:
+            xmin = 425.09499863547 
+            xmax = 471.13997037311907 
+            text = "Vocal3" 
+        intervals [7]:
+            xmin = 471.13997037311907 
+            xmax = 515.3744733204871 
+            text = "Instrumental3" 
+        intervals [8]:
+            xmin = 515.3744733204871 
+            xmax = 561.204202855183 
+            text = "Vocal4" 
+        intervals [9]:
+            xmin = 561.204202855183 
+            xmax = 573.0612394335186 
+            text = "Instrumental4" 
+        intervals [10]:
+            xmin = 573.0612394335186 
+            xmax = 630.1334558610155 
+            text = "Vocal5" 
+        intervals [11]:
+            xmin = 630.1334558610155 
+            xmax = 654.3549672749803 
+            text = "Vocal5 (new verse)" 
+        intervals [12]:
+            xmin = 654.3549672749803 
+            xmax = 676.8546496098807 
+            text = "Instrumental5" 
+        intervals [13]:
+            xmin = 676.8546496098807 
+            xmax = 767.745717625654 
+            text = "Vocal6" 
+        intervals [14]:
+            xmin = 767.745717625654 
+            xmax = 789.4683910729136 
+            text = "Instrumental6" 
+        intervals [15]:
+            xmin = 789.4683910729136 
+            xmax = 903.1778338079345 
+            text = "Vocal7" 
+        intervals [16]:
+            xmin = 903.1778338079345 
+            xmax = 947.5249368457083 
+            text = "Instrumental7" 
+        intervals [17]:
+            xmin = 947.5249368457083 
+            xmax = 991.9866284995665 
+            text = "Vocal8" 
+        intervals [18]:
+            xmin = 991.9866284995665 
+            xmax = 1034.2812119398648 
+            text = "Instrumental8" 
+        intervals [19]:
+            xmin = 1034.2812119398648 
+            xmax = 1100.186797022831 
+            text = "Vocal9" 
+        intervals [20]:
+            xmin = 1100.186797022831 
+            xmax = 1121.9501429892546 
+            text = "Instrumental9" 
+        intervals [21]:
+            xmin = 1121.9501429892546 
+            xmax = 1208.1245637166921 
+            text = "Vocal10" 
+        intervals [22]:
+            xmin = 1208.1245637166921 
+            xmax = 1229.5406919448128 
+            text = "Instrumental10" 
+        intervals [23]:
+            xmin = 1229.5406919448128 
+            xmax = 1293.1164787375671 
+            text = "Vocal11" 
+        intervals [24]:
+            xmin = 1293.1164787375671 
+            xmax = 1358.6396329593172 
+            text = "Vocal11 (new verse)" 
+        intervals [25]:
+            xmin = 1358.6396329593172 
+            xmax = 1422.3106255795626 
+            text = "Instrumental11" 
+        intervals [26]:
+            xmin = 1422.3106255795626 
+            xmax = 1825.0150955319425 
+            text = "Vocal12" 
+        intervals [27]:
+            xmin = 1825.0150955319425 
+            xmax = 1959.979878255923 
+            text = "Instrumental12" 
+        intervals [28]:
+            xmin = 1959.979878255923 
+            xmax = 2094.2794735021093 
+            text = "Vocal13" 
+        intervals [29]:
+            xmin = 2094.2794735021093 
+            xmax = 2220.6115945095207 
+            text = "Instrumental13" 
+        intervals [30]:
+            xmin = 2220.6115945095207 
+            xmax = 2697.895210685151 
+            text = "Vocal14" 
+        intervals [31]:
+            xmin = 2697.895210685151 
+            xmax = 2788.7647024269813 
+            text = "Vocal15" 
+        intervals [32]:
+            xmin = 2788.7647024269813 
+            xmax = 2875.9589387843293 
+            text = "Instrumental15" 
+        intervals [33]:
+            xmin = 2875.9589387843293 
+            xmax = 2963.507840801907 
+            text = "Vocal16" 
+        intervals [34]:
+            xmin = 2963.507840801907 
+            xmax = 3044.782606885298 
+            text = "Instrumental16" 
+        intervals [35]:
+            xmin = 3044.782606885298 
+            xmax = 3209.754163212071 
+            text = "Vocal17" 
+        intervals [36]:
+            xmin = 3209.754163212071 
+            xmax = 3252.3314657608344 
+            text = "Vocal17(new verse)" 
+        intervals [37]:
+            xmin = 3252.3314657608344 
+            xmax = 3293.8889526796875 
+            text = "Instrumental17" 
+        intervals [38]:
+            xmin = 3293.8889526796875 
+            xmax = 3335.285012550799 
+            text = "Vocal18" 
+        intervals [39]:
+            xmin = 3335.285012550799 
+            xmax = 3374.8028682098306 
+            text = "Instrumental18" 
+        intervals [40]:
+            xmin = 3374.8028682098306 
+            xmax = 3416.997739897378 
+            text = "Vocal19" 
+        intervals [41]:
+            xmin = 3416.997739897378 
+            xmax = 3425.158234144569 
+            text = "Instrumental19" 
+        intervals [42]:
+            xmin = 3425.158234144569 
+            xmax = 3476.3402310707024 
+            text = "Vocal20" 
+        intervals [43]:
+            xmin = 3476.3402310707024 
+            xmax = 3500.908070019381 
+            text = "Vocal20(new verse)" 
+        intervals [44]:
+            xmin = 3500.908070019381 
+            xmax = 3525.893552952188 
+            text = "Instrumental20" 
+        intervals [45]:
+            xmin = 3525.893552952188 
+            xmax = 3551.1339897924727 
+            text = "Vocal21" 
+        intervals [46]:
+            xmin = 3551.1339897924727 
+            xmax = 3574.844703187892 
+            text = "Instrumental21" 
+        intervals [47]:
+            xmin = 3574.844703187892 
+            xmax = 3639.104548013505 
+            text = "Vocal22" 
+        intervals [48]:
+            xmin = 3639.104548013505 
+            xmax = 3654.376330765813 
+            text = "Vocal23(new verse)" 
+        intervals [49]:
+            xmin = 3654.376330765813 
+            xmax = 3667.378980047172 
+            text = "Instrumental23" 
+        intervals [50]:
+            xmin = 3667.378980047172 
+            xmax = 3743.7431347329702 
+            text = "Vocal24" 
+        intervals [51]:
+            xmin = 3743.7431347329702 
+            xmax = 3770.535811333438 
+            text = "Instrumental24" 
+        intervals [52]:
+            xmin = 3770.535811333438 
+            xmax = 3796.668586849894 
+            text = "Vocal25" 
+        intervals [53]:
+            xmin = 3796.668586849894 
+            xmax = 3821.78154673644 
+            text = "Instrumental25" 
+        intervals [54]:
+            xmin = 3821.78154673644 
+            xmax = 3861.0444484879945 
+            text = "Vocal26" 
+        intervals [55]:
+            xmin = 3861.0444484879945 
+            xmax = 3873.9989984177328 
+            text = "Instrumental26" 
+        intervals [56]:
+            xmin = 3873.9989984177328 
+            xmax = 3920.085524152547 
+            text = "Vocal27" 
+        intervals [57]:
+            xmin = 3920.085524152547 
+            xmax = 3948.130453975086 
+            text = "Vocal28" 
+        intervals [58]:
+            xmin = 3948.130453975086 
+            xmax = 3974.9264099160673 
+            text = "Instrumental28" 
+        intervals [59]:
+            xmin = 3974.9264099160673 
+            xmax = 4002.2461784164398 
+            text = "Vocal29" 
+        intervals [60]:
+            xmin = 4002.2461784164398 
+            xmax = 4027.8690461179413 
+            text = "Instrumental29" 
+        intervals [61]:
+            xmin = 4027.8690461179413 
+            xmax = 4064.3274548872414 
+            text = "Vocal30" 
+        intervals [62]:
+            xmin = 4064.3274548872414 
+            xmax = 4075.277536449199 
+            text = "Instrumental30" 
+        intervals [63]:
+            xmin = 4075.277536449199 
+            xmax = 4111.162298926674 
+            text = "Vocal31" 
+        intervals [64]:
+            xmin = 4111.162298926674 
+            xmax = 4130.671732244963 
+            text = "Vocal31(new verse)" 
+        intervals [65]:
+            xmin = 4130.671732244963 
+            xmax = 4149.79601133075 
+            text = "Instrumental31" 
+        intervals [66]:
+            xmin = 4149.79601133075 
+            xmax = 4168.729659685118 
+            text = "Vocal32" 
+        intervals [67]:
+            xmin = 4168.729659685118 
+            xmax = 4187.407782086502 
+            text = "Instrumental32" 
+        intervals [68]:
+            xmin = 4187.407782086502 
+            xmax = 4206.052660910127 
+            text = "Vocal33" 
+        intervals [69]:
+            xmin = 4206.052660910127 
+            xmax = 4210.705569721594 
+            text = "Instrumental33" 
+        intervals [70]:
+            xmin = 4210.705569721594 
+            xmax = 4233.27206297946 
+            text = "Vocal34" 
+        intervals [71]:
+            xmin = 4233.27206297946 
+            xmax = 4303.12943362833 
+            text = "" 
+        intervals [72]:
+            xmin = 4303.12943362833 
+            xmax = 4319.810653042898 
+            text = "Vocal35" 
+        intervals [73]:
+            xmin = 4319.810653042898 
+            xmax = 4336.353411533121 
+            text = "Instrumental35" 
+        intervals [74]:
+            xmin = 4336.353411533121 
+            xmax = 4352.419016926273 
+            text = "Vocal36" 
+        intervals [75]:
+            xmin = 4352.419016926273 
+            xmax = 4368.3934423953515 
+            text = "Instrumental36" 
+        intervals [76]:
+            xmin = 4368.3934423953515 
+            xmax = 4423.697485540266 
+            text = "Vocal37" 
+        intervals [77]:
+            xmin = 4423.697485540266 
+            xmax = 4439.887868480726 
+            text = "Vocal37(new verse)" 
