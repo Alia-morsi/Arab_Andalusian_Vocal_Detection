@@ -7,6 +7,7 @@ Instructions
 
 Download Audio files:
 1. Download audio files from the following google drive, and copy the folder 'audio' into the cloned directory
+https://drive.google.com/drive/folders/1rIDcRet1MJXUqOHzSvsISyeg-dLpKze1?usp=sharing
 
 
 Running the notebooks:
